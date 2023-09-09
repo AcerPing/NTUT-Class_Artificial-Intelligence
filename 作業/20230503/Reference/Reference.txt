@@ -1,0 +1,71 @@
+尹相志Allan's blog
+https://www.thenewslens.com/article/38066/fullpage 
+https://dotblogs.com.tw/allanyiin/2016/03/12/222215
+
+人工智能擊敗歐洲圍棋王
+https://www.facebook.com/watch/?v=1242533679096633
+
+人工智慧如何用來下圍棋（一）：圍棋高手AlphaGo
+https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=c4f2e95b-99a5-4254-a3b7-16fc23b92435
+
+中國棋王柯潔連敗！「AlphaGo」成世界第一
+https://news.ltn.com.tw/news/world/breakingnews/1766233
+
+深藍與AlphaGo的對比
+http://gigix.thoughtworkers.org/2016/7/21/comparing-deep-blue-alphago/
+
+【AI入門】AlphaGo致勝原理分解--蒙地卡羅樹搜尋 
+https://www.youtube.com/watch?v=FjFDImV-yWc
+
+【AI入門】AlphaGo的致勝原理分解--蒙地卡羅方法
+https://www.youtube.com/watch?v=-TBmLeeJrw8
+
+A brief introduction of AlphaGo and Deep Learning: How it works
+https://medium.com/@kinwo/a-brief-introduction-of-alphago-and-deep-learning-how-it-works-76e23f82fe99
+
+AlphaGo 究竟是如何「思考」的？用國中生也能懂的語言說給你聽
+https://techtarian.com/ai/alphago/
+
+AlphaGo是什麼？人工智慧真的戰勝人腦了嗎!?｜科學大爆炸EP.59
+https://www.youtube.com/watch?v=IgFGsWiPqXQ
+
+AlphaGo Zero 为什么更厉害?
+https://www.youtube.com/watch?v=tABt4fdmaFg
+
+AlphaGo 之父：AI 打破人類圍棋 3000 年來的盲點
+https://www.inside.com.tw/article/9071-how-alphago-inspire-human-in-go
+
+AlphaGo幕後開發心路歷程大公開！一手打造AlphaGo傳奇首席工程師黃士傑回臺解密
+https://www.ithome.com.tw/news/118163
+
+用三份投影片講解 AlphaGo 的設計原理
+https://www.youtube.com/watch?v=63FDxJ5e_Ew
+
+<slideshare>
+用十分鐘瞭解 《人工智慧的那些問題與方法》
+https://www.slideshare.net/ccckmit/ss-59517452?next_slideshow=1
+
+用十分鐘瞭解 《電腦到底是怎麼下棋的》
+https://www.slideshare.net/ccckmit/ss-59361780
+
+AlphaGo in Depth
+https://www.slideshare.net/ckmarkohchang/alphago-in-depth
+
+人工智慧如何用來下圍棋（二）：從AlphaGo到AlphaGo Zero
+https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=b1062736-2373-4eef-96ea-5b1a0c004e95
+
+DeepMind以AlphaZero擊敗全球三大棋藝AI，連AlphaGo Zero也是手下敗將
+https://www.ithome.com.tw/news/127574
+
+AlphaStar: Mastering the real-time strategy game StarCraft II
+https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii
+
+多圖詳解 DeepMind 的超人類水準《星海爭霸》AI「AlphaStar」
+https://technews.tw/2019/01/25/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/
+
+血虐人類玩家，DeepMind《星海爭霸 2》AI 現身知名期刊
+https://technews.tw/2019/11/05/alphastar-grandmaster-level-in-starcraft-ii-using-multi-agent-reinforcement-learning/
+
+
+
+
